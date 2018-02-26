@@ -17,3 +17,15 @@ Esta web a su vez cumple con el servicio de hacer que otras empresas también cu
 ### 2. Segunda Pregunta
 
 ##### Busca en la normativa cuáles son los órganos de la Agencia Española de Protección de Datos y describe brevemente sus funciones.
+
+
+La Agencia de Protección de Datos se estructura en los siguientes órganos:
+
+1. El Director de la Agencia de Protección de Datos.
+
+1. El Consejo Consultivo.
+
+1. El Registro General de Protección de Datos, la Inspección de Datos y la Secretaría General, como órganos jerárquicamente dependientes del Director de la Agencia.
+
+
+Página con información: https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11252
