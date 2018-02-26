@@ -28,4 +28,8 @@ La Agencia de Protección de Datos se estructura en los siguientes órganos:
 1. El Registro General de Protección de Datos, la Inspección de Datos y la Secretaría General, como órganos jerárquicamente dependientes del Director de la Agencia.
 
 
+# Anexo
+
+Realmente cada uno de los órganos tiene un número de funciones que no se pueden resumir en pocas palabras, las funciones viene especificadas en el capitulo 3 del Real Decreto 428/1993, que podrás encontrar a tu disposición desde este [link enlazado a mi github](./real-decreto.pdf) o la página de referencía.
+
 Página con información: https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11252
